@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular, Reactjs, Python, Django, Laravel, RestApi, Nodejs, TypeScript, Firebase, Mongodb, Mysql
 - 📫 How to reach me: rajputgajanan@gmail.com
-
+-->
 
 
 👇 Hit in your console or terminal to connect with me.
@@ -43,14 +43,6 @@ const gajanan = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1168-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
-
-
-
 
 
 📊 **This Week I Spent My Time On** 
@@ -70,17 +62,6 @@ Windows                  2 hrs 48 mins       ███████████�
 Linux                  2 hrs 48 mins       █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in Angular** 
-
-```text
-Angular                    1 repos            ███████░░░░░░░░░░░░░░░░░░   27.5% 
-Python                     1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-
-```
-
-
-
 
 <!--END_SECTION:waka-->
 
