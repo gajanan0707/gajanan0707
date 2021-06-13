@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajputgajanan50@gmail.com**
 
-- ⚡ Fun fact **Je connais un peu le français**
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
