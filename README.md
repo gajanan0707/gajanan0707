@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanan0707&show_icons=true&locale=en&layout=compact" alt="gajanan0707" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajanan0707&show_icons=true&locale=en" alt="gajanan0707" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan0707&" alt="gajanan0707" /></p>
