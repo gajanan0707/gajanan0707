@@ -12,6 +12,10 @@ I am currently working on Python, Django, Flask, AWS, Javascript, Ajax
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajanan0707&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajanan0707&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+  <div align="right" dir="auto">
+  <a href="https://app.daily.dev/rajput_gajanan_07"><img src="https://github.com/gajanan0707/gajanan0707/blob/main/devcard.svg" width="400" alt="Gajanan Rajput's Dev Card"/></a>
+  </div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gajanan0707&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -28,8 +32,4 @@ I am currently working on Python, Django, Flask, AWS, Javascript, Ajax
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gajanan0707) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-  <div align="center" dir="auto">
-  <a href="https://app.daily.dev/rajput_gajanan_07"><img src="https://github.com/gajanan0707/gajanan0707/blob/main/devcard.svg" width="400" alt="Gajanan Rajput's Dev Card"/></a>
-  </div>
   
