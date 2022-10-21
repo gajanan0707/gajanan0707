@@ -30,6 +30,6 @@ I am currently working on Python, Django, Flask, AWS, Javascript, Ajax
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
   <div align="center" dir="auto">
-  <a href="https://app.daily.dev/rajput_gajanan_07"><img src="https://api.daily.dev/devcards/ce83199b2e00435f84bb09866d60f7c6.png?r=p89" width="400" alt="Gajanan Rajput's Dev Card"/></a>
+  <a href="https://app.daily.dev/rajput_gajanan_07"><img src="https://github.com/gajanan0707/gajanan0707/blob/main/devcard.svg" width="400" alt="Gajanan Rajput's Dev Card"/></a>
   </div>
   
