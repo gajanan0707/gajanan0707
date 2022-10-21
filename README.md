@@ -12,7 +12,7 @@ I am currently working on Python, Django, Flask, AWS, Javascript, Ajax
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajanan0707&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajanan0707&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <div align="right" dir="auto">
+  <div dir="auto" style="margin: -56% 0 0 60% ;">
   <a href="https://app.daily.dev/rajput_gajanan_07"><img src="https://github.com/gajanan0707/gajanan0707/blob/main/devcard.svg" width="400" alt="Gajanan Rajput's Dev Card"/></a>
   </div>
 
