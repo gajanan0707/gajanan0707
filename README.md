@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Python, Django, Flask, AWS, Javascript, Ajax
+I am currently working on Python, Django, Flask, FastAPI, AWS, Javascript, Ajax, ReactJs
 
 
 ## 🌐 Socials:
