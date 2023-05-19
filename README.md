@@ -19,8 +19,8 @@ I am currently working on Python, Django, Flask, FastAPI, AWS, Javascript, Ajax,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gajanan0707&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gajanan0707&icon=0&color=0)](https://visitcount.itsvg.in)
