@@ -10,7 +10,7 @@
 - Help to Python and JS community on <a target="_blank" href="https://stackoverflow.com/users/12065756/gajanan">
   stackoverflow</a> at spare time 🤩
 - I am currently working on Python, Django, Flask, FastAPI, AWS, Javascript, Ajax, ReactJs
-- Currently, learning Docker and AI/ML 😎
+- Currently, learning GoLang, Docker and AI/ML 😎
 
 <br>
 
