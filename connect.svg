@@ -3,16 +3,16 @@
  <title id="title">Connect with Gajanan Patil</title>
  <desc id="desc">A Naruto-inspired animated contact panel with Gajanan's pointing anime character and social links.</desc>
  <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d0e16"/><stop offset=".55" stop-color="#171329"/><stop offset="1" stop-color="#21121f"/></linearGradient>
-  <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
-  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#c4b5fd" opacity=".12"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101a2e"/><stop offset=".55" stop-color="#17233b"/><stop offset="1" stop-color="#302033"/></linearGradient>
+  <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff9b35"/><stop offset=".52" stop-color="#ffc247"/><stop offset="1" stop-color="#e85b43"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#ffe0a0" opacity=".12"/></pattern>
   <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
  </defs>
- <rect width="1200" height="620" rx="28" fill="#080910"/>
+ <rect width="1200" height="620" rx="28" fill="#0a1020"/>
  <rect x="14" y="14" width="1172" height="592" rx="26" fill="url(#bg)" stroke="url(#aurora)" stroke-opacity=".62"/>
  <rect x="14" y="14" width="1172" height="592" rx="26" fill="url(#dots)"/>
- <circle cx="230" cy="290" r="250" fill="#f472b6" opacity=".055"/>
- <circle cx="230" cy="290" r="190" fill="none" stroke="#a78bfa" stroke-opacity=".18" stroke-dasharray="4 10">
+ <circle cx="230" cy="290" r="250" fill="#e85b43" opacity=".055"/>
+ <circle cx="230" cy="290" r="190" fill="none" stroke="#ffc247" stroke-opacity=".18" stroke-dasharray="4 10">
   <animateTransform attributeName="transform" type="rotate" from="0 230 290" to="360 230 290" dur="45s" repeatCount="indefinite"/>
  </circle>
  <text x="55" y="66" fill="#f8fafc" font-size="31" font-weight="800" font-family="Arial,sans-serif">LET'S CONNECT</text>
@@ -25,47 +25,47 @@
   <path d="M0 0 C35 -20 65 -18 95 -2" fill="none" stroke="url(#aurora)" stroke-width="2.5" stroke-linecap="round">
    <animate attributeName="stroke-dasharray" values="0 120;120 0" dur="2s" repeatCount="indefinite"/>
   </path>
-  <path d="M75 -16 L96 -2 L74 10" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M75 -16 L96 -2 L74 10" fill="none" stroke="#ff9b35" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
  </g>
 
  <!-- contact cards -->
  <g transform="translate(590 135)" font-family="Arial,sans-serif">
-  <text x="0" y="0" fill="#c4b5fd" font-size="13" letter-spacing="2">FIND ME AROUND THE WEB</text>
+  <text x="0" y="0" fill="#ffe0a0" font-size="13" letter-spacing="2">FIND ME AROUND THE WEB</text>
   <g transform="translate(0 28)">
-   <rect width="535" height="76" rx="16" fill="#121a29" stroke="#22d3ee" stroke-opacity=".65"/>
-   <circle cx="42" cy="38" r="22" fill="#1b3340" stroke="#22d3ee" stroke-opacity=".65"/>
-   <text x="42" y="45" fill="#cffafe" font-size="22" font-weight="700" text-anchor="middle">GH</text>
+   <rect width="535" height="76" rx="16" fill="#1c2a43" stroke="#ff9b35" stroke-opacity=".65"/>
+   <circle cx="42" cy="38" r="22" fill="#3a2c32" stroke="#ff9b35" stroke-opacity=".65"/>
+   <text x="42" y="45" fill="#fff0d6" font-size="22" font-weight="700" text-anchor="middle">GH</text>
    <text x="82" y="32" fill="#f8fafc" font-size="17" font-weight="700">GitHub</text>
    <text x="82" y="54" fill="#9ca3af" font-size="13">@gajanan0707</text>
-   <text x="500" y="44" fill="#67e8f9" font-size="24" text-anchor="middle">↗</text>
+   <text x="500" y="44" fill="#ffd08a" font-size="24" text-anchor="middle">↗</text>
    <animate attributeName="opacity" values="1;.78;1" dur="3.5s" repeatCount="indefinite"/>
   </g>
   <g transform="translate(0 119)">
-   <rect width="535" height="76" rx="16" fill="#17182c" stroke="#a78bfa" stroke-opacity=".65"/>
-   <circle cx="42" cy="38" r="22" fill="#292344" stroke="#a78bfa" stroke-opacity=".65"/>
-   <text x="42" y="45" fill="#ddd6fe" font-size="22" font-weight="700" text-anchor="middle">in</text>
+   <rect width="535" height="76" rx="16" fill="#202c46" stroke="#ffc247" stroke-opacity=".65"/>
+   <circle cx="42" cy="38" r="22" fill="#30304a" stroke="#ffc247" stroke-opacity=".65"/>
+   <text x="42" y="45" fill="#fff0d6" font-size="22" font-weight="700" text-anchor="middle">in</text>
    <text x="82" y="32" fill="#f8fafc" font-size="17" font-weight="700">LinkedIn</text>
    <text x="82" y="54" fill="#9ca3af" font-size="13">Connect professionally</text>
-   <text x="500" y="44" fill="#c4b5fd" font-size="24" text-anchor="middle">↗</text>
+   <text x="500" y="44" fill="#ffe0a0" font-size="24" text-anchor="middle">↗</text>
   </g>
   <g transform="translate(0 210)">
-   <rect width="535" height="76" rx="16" fill="#28182c" stroke="#f472b6" stroke-opacity=".65"/>
-   <circle cx="42" cy="38" r="22" fill="#3a203b" stroke="#f472b6" stroke-opacity=".65"/>
-   <text x="42" y="45" fill="#fbcfe8" font-size="21" font-weight="700" text-anchor="middle">◎</text>
+   <rect width="535" height="76" rx="16" fill="#392536" stroke="#e85b43" stroke-opacity=".65"/>
+   <circle cx="42" cy="38" r="22" fill="#3a203b" stroke="#e85b43" stroke-opacity=".65"/>
+   <text x="42" y="45" fill="#ffd2bd" font-size="21" font-weight="700" text-anchor="middle">◎</text>
    <text x="82" y="32" fill="#f8fafc" font-size="17" font-weight="700">Instagram</text>
    <text x="82" y="54" fill="#9ca3af" font-size="13">@ai_with_gp</text>
-   <text x="500" y="44" fill="#f9a8d4" font-size="24" text-anchor="middle">↗</text>
+   <text x="500" y="44" fill="#ffb18f" font-size="24" text-anchor="middle">↗</text>
   </g>
   <g transform="translate(0 301)">
-   <rect width="535" height="76" rx="16" fill="#181c2a" stroke="#a78bfa" stroke-opacity=".5"/>
-   <circle cx="42" cy="38" r="22" fill="#252a3d" stroke="#a78bfa" stroke-opacity=".65"/>
-   <text x="42" y="45" fill="#ddd6fe" font-size="20" font-weight="700" text-anchor="middle">@</text>
+   <rect width="535" height="76" rx="16" fill="#181c2a" stroke="#ffc247" stroke-opacity=".5"/>
+   <circle cx="42" cy="38" r="22" fill="#252a3d" stroke="#ffc247" stroke-opacity=".65"/>
+   <text x="42" y="45" fill="#fff0d6" font-size="20" font-weight="700" text-anchor="middle">@</text>
    <text x="82" y="32" fill="#f8fafc" font-size="17" font-weight="700">Email</text>
    <text x="82" y="54" fill="#9ca3af" font-size="13">Add your public contact email</text>
-   <text x="500" y="44" fill="#c4b5fd" font-size="24" text-anchor="middle">↗</text>
+   <text x="500" y="44" fill="#ffe0a0" font-size="24" text-anchor="middle">↗</text>
   </g>
   <text x="0" y="425" fill="#a8a6b7" font-size="13">Open to meaningful collaborations, ideas and building cool things.</text>
-  <text x="0" y="450" fill="#67e8f9" font-size="12" letter-spacing="1.3">GITHUB.COM/GAJANAN0707</text>
+  <text x="0" y="450" fill="#ffd08a" font-size="12" letter-spacing="1.3">GITHUB.COM/GAJANAN0707</text>
  </g>
  <g fill="#fff" filter="url(#glow)">
   <circle cx="548" cy="120" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>

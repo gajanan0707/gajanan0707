@@ -4,19 +4,19 @@
   <desc id="desc">An animated Naruto-inspired developer profile hero for Gajanan Patil.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d0e16"/><stop offset="0.58" stop-color="#151126"/>
-      <stop offset="1" stop-color="#21101e"/>
+      <stop offset="0" stop-color="#101a2e"/><stop offset="0.58" stop-color="#17233b"/>
+      <stop offset="1" stop-color="#302033"/>
     </linearGradient>
     <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/><stop offset=".52" stop-color="#a78bfa"/>
-      <stop offset="1" stop-color="#f472b6"/>
+      <stop offset="0" stop-color="#ff9b35"/><stop offset=".52" stop-color="#ffc247"/>
+      <stop offset="1" stop-color="#e85b43"/>
     </linearGradient>
     <radialGradient id="moon">
-      <stop offset="0" stop-color="#fb7185" stop-opacity=".32"/>
-      <stop offset="1" stop-color="#fb7185" stop-opacity="0"/>
+      <stop offset="0" stop-color="#f97352" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#f97352" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1" fill="#c4b5fd" opacity=".13"/>
+      <circle cx="1.5" cy="1.5" r="1" fill="#ffe0a0" opacity=".13"/>
     </pattern>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="7" result="b"/>
@@ -24,28 +24,28 @@
     </filter>
     <clipPath id="cardClip"><rect x="12" y="12" width="1176" height="496" rx="28"/></clipPath>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity=".8"/>
-      <stop offset=".5" stop-color="#a78bfa" stop-opacity=".65"/>
-      <stop offset="1" stop-color="#f472b6" stop-opacity=".8"/>
+      <stop offset="0" stop-color="#ff9b35" stop-opacity=".8"/>
+      <stop offset=".5" stop-color="#ffc247" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#e85b43" stop-opacity=".8"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="520" rx="30" fill="#090910"/>
+  <rect width="1200" height="520" rx="30" fill="#0a1020"/>
   <g clip-path="url(#cardClip)">
     <rect x="12" y="12" width="1176" height="496" rx="28" fill="url(#bg)"/>
     <rect x="12" y="12" width="1176" height="496" fill="url(#dots)"/>
     <circle cx="1010" cy="170" r="260" fill="url(#moon)"/>
-    <circle cx="1010" cy="170" r="116" fill="#fb7185" opacity=".07"/>
+    <circle cx="1010" cy="170" r="116" fill="#f97352" opacity=".07"/>
     <path d="M760 500 Q920 320 1200 360 L1200 520Z" fill="#21152f" opacity=".7"/>
-    <path d="M720 520 Q930 365 1200 420" stroke="#a78bfa" stroke-opacity=".23" stroke-width="2" fill="none"/>
-    <path d="M730 520 Q930 385 1200 445" stroke="#22d3ee" stroke-opacity=".2" stroke-width="2" fill="none"/>
+    <path d="M720 520 Q930 365 1200 420" stroke="#ffc247" stroke-opacity=".23" stroke-width="2" fill="none"/>
+    <path d="M730 520 Q930 385 1200 445" stroke="#ff9b35" stroke-opacity=".2" stroke-width="2" fill="none"/>
 
     <g transform="translate(68 86)">
-      <rect width="174" height="34" rx="17" fill="#102a30" stroke="#22d3ee" stroke-opacity=".6"/>
-      <circle cx="18" cy="17" r="5" fill="#34d399">
+      <rect width="174" height="34" rx="17" fill="#102a30" stroke="#ff9b35" stroke-opacity=".6"/>
+      <circle cx="18" cy="17" r="5" fill="#77c78a">
         <animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/>
       </circle>
-      <text x="33" y="22" fill="#a5f3fc" font-size="13" font-family="Arial, sans-serif" letter-spacing="1.2">OPEN TO COLLABS</text>
+      <text x="33" y="22" fill="#ffe0a0" font-size="13" font-family="Arial, sans-serif" letter-spacing="1.2">OPEN TO COLLABS</text>
     </g>
 
     <text x="68" y="190" fill="#cbd5e1" font-size="23" font-family="Arial, sans-serif">
@@ -65,19 +65,19 @@
     </text>
 
     <g transform="translate(70 405)" font-family="Arial, sans-serif" font-size="13">
-      <rect width="112" height="32" rx="16" fill="#211b35" stroke="#a78bfa" stroke-opacity=".55"/>
-      <text x="56" y="21" fill="#ddd6fe" text-anchor="middle">PYTHON</text>
-      <rect x="122" width="112" height="32" rx="16" fill="#142b35" stroke="#22d3ee" stroke-opacity=".55"/>
-      <text x="178" y="21" fill="#cffafe" text-anchor="middle">FASTAPI</text>
-      <rect x="244" width="112" height="32" rx="16" fill="#301b30" stroke="#f472b6" stroke-opacity=".55"/>
-      <text x="300" y="21" fill="#fbcfe8" text-anchor="middle">NEXT.JS</text>
-      <rect x="366" width="88" height="32" rx="16" fill="#211b35" stroke="#a78bfa" stroke-opacity=".55"/>
-      <text x="410" y="21" fill="#ddd6fe" text-anchor="middle">GENAI</text>
+      <rect width="112" height="32" rx="16" fill="#283047" stroke="#ffc247" stroke-opacity=".55"/>
+      <text x="56" y="21" fill="#fff0d6" text-anchor="middle">PYTHON</text>
+      <rect x="122" width="112" height="32" rx="16" fill="#142b35" stroke="#ff9b35" stroke-opacity=".55"/>
+      <text x="178" y="21" fill="#fff0d6" text-anchor="middle">FASTAPI</text>
+      <rect x="244" width="112" height="32" rx="16" fill="#392536" stroke="#e85b43" stroke-opacity=".55"/>
+      <text x="300" y="21" fill="#ffd2bd" text-anchor="middle">NEXT.JS</text>
+      <rect x="366" width="88" height="32" rx="16" fill="#283047" stroke="#ffc247" stroke-opacity=".55"/>
+      <text x="410" y="21" fill="#fff0d6" text-anchor="middle">GENAI</text>
     </g>
 
     <g transform="translate(720 20)">
-      <circle cx="225" cy="235" r="210" fill="none" stroke="#a78bfa" stroke-opacity=".15" stroke-dasharray="3 10"/>
-      <circle cx="225" cy="235" r="178" fill="none" stroke="#22d3ee" stroke-opacity=".18" stroke-dasharray="2 9">
+      <circle cx="225" cy="235" r="210" fill="none" stroke="#ffc247" stroke-opacity=".15" stroke-dasharray="3 10"/>
+      <circle cx="225" cy="235" r="178" fill="none" stroke="#ff9b35" stroke-opacity=".18" stroke-dasharray="2 9">
         <animateTransform attributeName="transform" type="rotate" from="0 225 235" to="360 225 235" dur="55s" repeatCount="indefinite"/>
       </circle>
       <image x="0" y="0" width="450" height="478" preserveAspectRatio="xMidYMid meet"
