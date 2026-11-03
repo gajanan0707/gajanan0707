@@ -12,6 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Check out the repository before running git commands or generating files.
+      - name: Check out repository
+        uses: actions/checkout@v7
+
       - name: Generate 3D contribution profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -20,8 +24,12 @@ jobs:
 
       - name: Commit generated SVGs
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A profile-3d-contrib
-          git diff --cached --quiet || git commit -m "Update 3D contribution profile"
-          git push
+          if git diff --cached --quiet; then
+            echo "No contribution graph changes to commit."
+          else
+            git commit -m "Update 3D contribution profile"
+            git push
+          fi
