@@ -28,8 +28,7 @@
  </g>
 
  <!-- ID card with swinging motion -->
- <g transform="translate(235 440)">
-  <animateTransform attributeName="transform" type="rotate" values="-2 0 -230;2 0 -230;-1 0 -230;0 0 -230" keyTimes="0;.35;.72;1" dur="6s" repeatCount="indefinite"/>
+ <g transform="translate(255 440)">
   <rect x="-180" y="-240" width="360" height="480" rx="24" fill="#111321" stroke="url(#aurora)" stroke-width="2"/>
   <rect x="-170" y="-230" width="340" height="460" rx="18" fill="url(#dots)" stroke="#ffffff" stroke-opacity=".12"/>
   <rect x="-152" y="-212" width="304" height="42" rx="10" fill="#211b35"/>
